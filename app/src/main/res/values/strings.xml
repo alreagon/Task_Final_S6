@@ -1,3 +1,35 @@
 <resources>
-    <string name="app_name">Task_Final_S6</string>
+    <string name="app_name">Task_Final_Chapter_6</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="logout">Logout</string>
+    <string name="welcome_username">Welcome, Username!</string>
+    <string name="home">Home</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="input_data">Input Data</string>
+    <string name="description">Description</string>
+    <string name="update">Update</string>
+    <string name="edit_data">Edit Data</string>
+    <string name="delete_data">Delete Data</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="username">Username</string>
+    <string name="don_t_have_account">Don\'t have account?</string>
+    <string name="profile">Profile</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="date_of_birth">Tanggal Lahir</string>
+    <string name="address">Alamat</string>
+    <string name="spider_man_no_way_home">Spider-Man: No Way Home</string>
+    <string name="release_date">Release Date:</string>
+    <string name="_2021_12_15">2021-12-15</string>
+    <string name="average_rating">Average Rating:</string>
+    <string name="_8_2">8.2</string>
+    <string name="read_more">Read more</string>
+    <string name="about_movie">About Movie</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
